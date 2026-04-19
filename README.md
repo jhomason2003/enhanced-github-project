@@ -1,7 +1,7 @@
 # Enhanced Github Project
 
-Add a new line.
+This is new line.
 
-Add a new line 2.
+This is new line 2.
 
-Add a new line 3.
+This is new line 3.
